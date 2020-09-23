@@ -1,0 +1,96 @@
+.searchbox
+{
+	position: absolute;
+	top: 35%;
+	left:45.3%;
+	transform: translate(-50%,-50%);
+	width: 490px;
+	height: 40px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+	outline: none;
+	color: black;
+	font-weight: ;
+	color: white;
+	font-size: 18px;
+	font-family: Times New Roman;
+}
+
+.submit
+{
+	position: absolute;
+	top: 35%;
+	left: 68.7%;
+	transform: translate(-50%,-50%);
+	width: 110.5px;
+	height: 40px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,.5);
+	outline: none;	
+	font-weight: ;
+	color: white;
+	font-size: 18px;
+	font-family: Times New Roman;
+}
+
+.homepage
+{
+	position: absolute;
+	top: 11%;
+	left:46.5%;
+	transform: translate(-50%,-50%);
+	outline: none;	
+	font-weight:bold;
+	color:#55f521;
+	font-family:Jazz LET ;
+	font-size: 38.5px;
+	text-decoration: none;
+}
+.paragraph1
+{
+    position: absolute;
+	top: 20%;
+	left: 51.1%;
+	transform: translate(-50%,-50%);
+	outline: none;
+	font-weight: ;
+	color: White;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.paragraph
+{
+    position: absolute;
+	top: 56%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	outline: none;
+	font-weight: ;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.footer
+{
+	position: absolute;
+	top:78%;
+	outline: none;	
+	font-weight: ;
+	color: Red;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.bottombar
+{
+	position: absolute;
+	top:91%;
+	left:28.3%;
+	outline: none;
+	font-weight: ;
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+}

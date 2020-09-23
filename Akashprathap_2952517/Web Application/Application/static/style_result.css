@@ -1,0 +1,105 @@
+.homepage
+{
+	position: relative;
+	top: 5%;
+	left: 5%;
+	transform: translate(-50%,-50%);
+	outline: none;	
+	font-weight: ;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-bottom: 20px;
+}
+
+.homepage1
+{
+	position: relative;
+	top: 5%;
+	left: 40%;
+	transform: translate(-50%,-50%);
+	outline: none;
+	font-weight: ;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-bottom: 20px;
+}
+
+.bodyclass
+{
+	background-image: url('https://lh3.googleusercontent.com/proxy/yvJsL7T6n_A-PAGQiTNF3dj1_Fmxd3m4mE71Rh0lYGeNSOs8nmgEEVYgDQK0xhimgHFpMjTJ_XnAyKNeXTGhn6e2-fR1Bp_sKgpahMt8iYOEYFmm8FCgkwrSUCygX_mOdoVc0fg8V6xAWnh8gjOBkIVq8dI9uOeP5j3wmgDq6yt0QVqMCF9dXsDqSfnBKa9vojXhRnqDpB6ZBmNuj8zEdricDKv6cFYs9b2ZwrZTEVhRPAuFY1sDPN4Zz0XDwWo6iq1jsLQYE8tzl87gAaABJz2kirr2UTb-bsFpvX8G-IlBpF1R7iU6');
+  				background-repeat: no-repeat;
+  				background-attachment: fixed;
+  				background-size: cover;
+				}
+}
+
+.summary
+{
+	position: relative;
+	top: 20%;
+	left: 10%;
+	margin-bottom: 30px;
+}
+
+.topnav {
+    background-color: #123CEE;
+    overflow: hidden;
+    height: 40px;
+    widows: 100%;
+    font-family: Georgia;
+	margin-bottom: 18px;
+}
+
+.container
+{
+	position: relative;
+	margin-left: 10%;
+	box-sizing: border-box;
+	outline: none;
+	margin-bottom: 20px;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+td {
+  padding: 10px 0;
+}
+
+.print_details
+{
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+.labels
+{
+	position: relative;
+	box-sizing: border-box;
+	outline: none;	
+	margin-top: 20px;
+	margin-left: 10%;
+	margin-bottom: 40px;
+}
+
+.myCustomClassName{
+color:green;
+font-size: 1em;
+font-family:Times New Roman;
+}
+
+
+
+
+
+
+
+
+
+
